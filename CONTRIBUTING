@@ -1,0 +1,4 @@
+Para adicionar sua contribuição, siga o seguinte fluxo:
+- Crie uma issue com o título "Falta adicionar a minha contribuição - @<usuario>". Ex: Falta adicionar a minha contribuição - @giuliocc;
+- Altere o arquivo participantes.md e adicione uma nova linha com seu @ do Github (como no título da issue);
+- Crie um pull request com o título "Contribuição @<usuario>" (como no título da issue), e na descrição do pull request coloque #<número da issue> (esse número pode ser visto na url da issue ou na tela quando abrí-la). Ex: #1
