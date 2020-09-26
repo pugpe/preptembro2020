@@ -1,2 +1,3 @@
-## Participantes:
-@mpdiasrosa
+- [@bcnishi](https://github.com/bcnishi)
+- [@giuliocc](https://github.com/giuliocc)
+- [@mpdiasrosa](https://github.com/mpdiasrosa)
